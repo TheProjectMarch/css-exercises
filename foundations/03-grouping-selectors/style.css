@@ -1,26 +1,28 @@
 .button-1 {
     color: #fff;
     background-color: black;
+    font-weight: bold; /* + */
 }
 
 .button-2 {
-    color: #000;
+    /* -color: #000; */
     background-color: yellow;
 }
 
 .button-1,
 .button-2 {
     font-size: 38px;
+    /* +font-family: Helvetica, "Times New Roman", sans-serif; */
 }
 /* 
 Button 1 V
 black background V
 white text V
-bold font
+bold font V
 
 Button 2
 yellow bg V
-black text V
+black text V - default color, didn't need
 
 
 Shared
