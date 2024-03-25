@@ -3,9 +3,14 @@
     background-color: black;
 }
 
-/* Button 1
-black background
-white text
+.button-2 {
+    color: #000;
+    background-color: yellow;
+}
+/* 
+Button 1 V
+black background V
+white text V
 bold font
 
 Button 2
