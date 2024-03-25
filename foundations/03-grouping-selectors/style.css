@@ -7,6 +7,11 @@
     color: #000;
     background-color: yellow;
 }
+
+.button-1,
+.button-2 {
+    font-size: 38px;
+}
 /* 
 Button 1 V
 black background V
@@ -14,8 +19,8 @@ white text V
 bold font
 
 Button 2
-yellow bg
-black text
+yellow bg V
+black text V
 
 
 Shared
